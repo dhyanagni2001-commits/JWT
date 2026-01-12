@@ -1,4 +1,4 @@
-## **🔐 JWT Authentication & Authorization API**
+# 🔐 JWT Authentication & Authorization API
 
 A simple Node.js + Express project demonstrating JWT-based authentication and role-based authorization.
 
@@ -10,7 +10,7 @@ Protect routes using authentication middleware
 
 Restrict access using role-based authorization
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack 
 
 Node.js
 
@@ -20,7 +20,7 @@ JSON Web Token (JWT)
 
 REST API
 
-# 🔐 Authentication Flow
+## 🔐 Authentication Flow
 
 User logs in using email & password
 
